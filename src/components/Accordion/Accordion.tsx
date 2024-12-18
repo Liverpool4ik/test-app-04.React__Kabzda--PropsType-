@@ -1,6 +1,6 @@
 type AccordionPropsType = {
 	AcrdTitle: string;
-	opened: boolean;
+	opened: boolean; // Accordion open or close ****
 };
 
 function Accordion(props: AccordionPropsType) {
